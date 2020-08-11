@@ -1,2 +1,2 @@
 # King-FBLA-.com-redirect
-Just the bare ones to redirect to the .org main site. 
+Only necessary files to redirect to the .org main site. 
